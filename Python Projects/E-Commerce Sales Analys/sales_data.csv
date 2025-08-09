@@ -1,0 +1,7 @@
+Order ID,Order Date,Customer Name,Product,Quantity Ordered,Price Each,Phone Number
+1001,2023-01-15,Alice Smith,Laptop,1,1200.0,(123) 456-7890
+1002,2023-02-03,Bob Johnson,Monitor,2,300.0,Na--9876543210
+1003,2023-02-20,Carlos Diaz,Keyboard,3,50.0,nan--1234567890
+1004,2023-03-05,Diana Lee,Laptop,1,1200.0,123.456.7890
+1005,2023-03-18,Eli Brown,Mouse,2,25.0,321_654_9870
+1006,2023-04-01,Fiona Davis,Monitor,1,300.0,456/789/1230
