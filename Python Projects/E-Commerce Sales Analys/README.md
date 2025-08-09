@@ -1,17 +1,26 @@
-## E-commerce Sales Analysis
-## Project Overview
-This project analyzes sales data from an online retail store to uncover trends in revenue and product performance. Using a dataset of customer orders, the goal is to identify high-performing months and best-selling products to inform business decisions.
+# E-commerce Sales Analysis
 
-It cleans and preprocesses raw sales data, calculates total revenue generated, identifies top-selling products, analyzes monthly revenue trends and visualizes sales performance over time.
+## **Project Overview**
+This project analyzes sales data from an online retail store to uncover trends in revenue and product performance. The goal is to identify **high-performing months** and **best-selling products** to support data-driven business decisions.  
 
-## Tools & Libraries Used
-1. Python
-2. pandas – data cleaning, manipulation, and aggregation
-3. matplotlib & seaborn – to create informative plots and charts
+The analysis includes:
+- Cleaning and preprocessing raw sales data  
+- Calculating total revenue generated  
+- Identifying top-selling products  
+- Analyzing monthly revenue trends  
+- Visualizing sales performance over time  
 
-## Skills Demonstrated
-1. Data cleaning: handling missing values and date parsing
-2. Feature engineering: creating new revenue and month columns
-3. Aggregation and group-by operations for summarizing sales
-4. Time-based analysis and visualization
+---
 
+## **Tools & Libraries Used**
+- **Python** – Data analysis and automation  
+- **pandas** – Data cleaning, manipulation, and aggregation  
+- **matplotlib** & **seaborn** – Visualizing sales trends and product performance  
+
+---
+
+## **Skills Demonstrated**
+- Data cleaning: handling missing values and parsing dates  
+- Feature engineering: creating **Revenue** and **Month** columns  
+- Aggregation and group-by operations for summarizing sales  
+- Time-based trend analysis and visualization
