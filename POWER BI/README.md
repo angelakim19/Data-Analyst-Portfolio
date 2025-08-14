@@ -34,6 +34,14 @@ Some projects are based on **Excel data analysis** before visualization in Power
   HR analytics dashboard showing attrition rates, employee demographics, satisfaction scores, and tenure-related trends.  
   *Key Insight:* Younger employees have higher attrition rates, while satisfaction scores are lowest in the R&D department.
 
+- **Retail Business Sales Dashboard** *(Based on Excel Analysis)*  
+  Sales performance dashboard showing total revenue by product, sales representative, and region, along with monthly revenue and profit trends.  
+  *Key Insight:* Monitors and Headphones generate the highest revenue, with Region XI as the top-performing region.
+
+- **Budget vs Actual Financial Dashboard** *(Based on Excel Analysis)*  
+  Financial performance dashboard comparing budgeted vs actual spending by category and department, including variance analysis.  
+  *Key Insight:* IT and HR departments show notable overspending, with Travel and Salaries as the most overspent categories.
+
 ## Files in this folder
 - **`.pbix` files** → Interactive Power BI dashboards.  
 - **`.pdf` files** → Static snapshots for easy reference.
