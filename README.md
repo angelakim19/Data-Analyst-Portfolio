@@ -12,3 +12,4 @@ I’ve gained experience by actively practicing with real-world data and explori
 
 I'm passionate about uncovering insights that inform decisions, tell stories, and help solve real-world problems, and I’m always eager to learn more.
 #
+# Certifications
