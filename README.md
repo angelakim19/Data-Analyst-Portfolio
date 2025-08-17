@@ -13,3 +13,8 @@ I’ve gained experience by actively practicing with real-world data and explori
 I'm passionate about uncovering insights that inform decisions, tell stories, and help solve real-world problems, and I’m always eager to learn more.
 #
 # Certifications
+- **Data Literacy Certification**  
+  [View Certificate](https://drive.google.com/file/d/1pRzPUkxc_uGF-mM-VS8KVYhYMUD8Xqth/view?usp=sharing)  
+
+- **Data Analyst Associate Certification**  
+  [View Certificate](https://drive.google.com/file/d/1GvWRHOzZm9s2koU6ZSrB4oaIza0fgJqQ/view?usp=sharing)  
